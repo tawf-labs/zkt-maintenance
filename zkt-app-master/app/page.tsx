@@ -30,19 +30,19 @@ export function UnderDevelopment() {
 
           {/* Description */}
           <p className="text-lg text-muted-foreground max-w-2xl leading-relaxed">
-            We're building a better mainnet platform for you. Meanwhile, you can try all our features on testnet to experience transparent and verified blockchain charity.
+            We're building a better mainnet platform for you. Meanwhile, you can try all our features on testnet to experience transparent and verified blockchain charity. Our website is now live at <a href="https://ziswaf.tawf.foundation" className="text-primary hover:underline" target="_blank" rel="noopener noreferrer">ziswaf.tawf.foundation</a> as part of the unified TAWF ecosystem.
           </p>
 
           {/* CTA Button */}
           <div className="flex flex-col sm:flex-row items-center gap-4 pt-4">
             <a 
-              href="https://testnet.zkt.app" 
+              href="https://ziswaf.tawf.foundation" 
               target="_blank"
               rel="noopener noreferrer"
               className="inline-flex items-center justify-center h-14 px-10 rounded-lg bg-primary text-primary-foreground font-semibold hover:bg-primary/90 transition-all shadow-lg shadow-primary/30 group"
             >
               <Rocket className="w-5 h-5 mr-2" />
-              Try Testnet Now
+              Visit Ziswaf
               <ArrowRight className="w-5 h-5 ml-2 group-hover:translate-x-1 transition-transform" />
             </a>
           </div>

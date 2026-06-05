@@ -1,5 +1,7 @@
 # ZK Zakat
 
+> **Domain Update**: The website has been migrated to [ziswaf.tawf.foundation](https://ziswaf.tawf.foundation) as part of the unified TAWF ecosystem.
+
 Private, verifiable Zakat with ZK proofs - A modern web application for conducting Zakat donations with privacy and transparency using zero-knowledge proofs.
 
 ## Overview

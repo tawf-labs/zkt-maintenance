@@ -6,6 +6,8 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ZK Zakat is a Next.js 15.2.4 web application that enables private and verifiable Zakat donations using zero-knowledge proof technology. This is a **client-side only mock implementation** - all blockchain interactions are simulated for demonstration purposes.
 
+> **Domain Update**: The website has been migrated to [ziswaf.tawf.foundation](https://ziswaf.tawf.foundation) as part of the unified TAWF ecosystem.
+
 ## Development Commands
 
 ```bash
